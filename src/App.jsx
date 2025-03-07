@@ -1,11 +1,11 @@
 function App() {
   return (
-    <section className="bg-[url(/background.png)] px-5 lg:px-28 w-full flex flex-col items-center min-h-screen">
-      <div className="container lg:px-32 flex flex-row justify-between items-start">
+    <section className="bg-[url(/background.png)] bg-cover bg-gray-50 px-5 lg:px-28 w-full flex flex-col items-center min-h-screen">
+      <div className="container lg:px-14 lg:mb-6 flex flex-row justify-between items-start">
         <img
           src="/sesa-text.png"
           alt="text-sesa"
-          className="w-[60%] lg:w-[500px] h-auto mt-6 lg:mt-10"
+          className="w-[60%] lg:w-[500px] h-auto mt-6 lg:mt-16"
         />
         <img
           src="/sesa-logo.png"
