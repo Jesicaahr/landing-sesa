@@ -33,7 +33,9 @@ function App() {
         </div>
         <div className="items-container">
           <img src="/iiyma.png" alt="iiyma" className="w-full h-auto" />
-          <button className="button-regist">Register Now</button>
+          <a href="http://sesabyldc.id/iiyma2025" className="button-regist">
+            Register Now
+          </a>
         </div>
         <div className="items-container">
           <img src="/gamf-pop.png" alt="gamf-pop" className="w-full h-auto" />
@@ -62,7 +64,7 @@ function App() {
             alt="gamf-classic"
             className="w-full h-auto"
           />
-          <button className="button-regist">Register Now</button>
+          <button className="button-regist">Coming Soon</button>
         </div>
       </div>
       <div className="container">
